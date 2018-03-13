@@ -38,13 +38,13 @@ https://wpmeetup-berlin.de/admin-developer
 ## Medien
 
 ### Bild
-Das Logo von wpmeetup-berlin.de würde ich sagen.
+Das Logo von wpmeetup-berlin.de.
 
 ### Bild Lizenz
-Weiß Bernhard.
+unbekannt
 
 ### YouTube Video URL
-Woll'n wa?
+Soll ein Video online gehen?
 
 ## Mitmacher finden / Finanzielle Unterstützung
 Sind wir genug, oder? Die € kommen von der Foundation, ebenfalls oder?
@@ -62,4 +62,3 @@ Ich benötige finanzielle unterstützung.
 
 ##  Angaben bestätigen
 
-Legal foo...
