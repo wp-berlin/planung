@@ -45,11 +45,6 @@ Das Logo von wpmeetup-berlin.de.
 ### YouTube Video URL
 
 ## Mitmacher finden / Finanzielle Unterstützung
-Sind wir genug, oder? Die € kommen von der Foundation, ebenfalls oder?
-
-Bitte fülle die folgenden Felder nur dann aus, wenn dein Projekt kein Feedback mehr benötigt, sondern bereits ausgearbeitet ist.
-
-Bitte gebe hier die verschiedenen Rollen an, mit denen du dein Team besetzen möchtest.
 
 ### Dank an Mitmacher
 
