@@ -26,14 +26,11 @@ Zu allen Vorträgen soll es Open Source *Shownotes* geben, die von allen Teilneh
 Mittelfristig sind Workshops o.ä. angedacht, um einzelne Themenbereiche vertiefen zu können.
 
 ### Wo sollen diese Inhalte verwendet werden? (z.B. Wikipedia)
-Die Inhalte werden auf https://wpmeetup-berlin.de/ und ggf. https://wordpress.tv/ veröffentlicht.  
+Die Zusammenfassungen der Vorträge werden unter https://github.com/wp-berlin/ veröffentlicht.
 
 ### Wann soll das Projekt umgesetzt werden? (z.B. 02.01.2016 - 31.01.2016)
-Das Projekt soll im Juni 2018 starten (k. A., habe ich nur geschrieben um mal nen Datum in den Raum zu werfen) und
-von dort an monatlich stattfinden.
 
 ### Hier geht es zur Wikipedia Projektseite
-https://wpmeetup-berlin.de/admin-developer
 
 ## Medien
 
