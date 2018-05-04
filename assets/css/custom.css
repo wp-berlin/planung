@@ -1,0 +1,65 @@
+.reveal .svg {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.reveal .logo .st0 {
+    fill: #FFFFFF;
+}
+
+.reveal .logo .st1 {
+    fill: #22749b;
+}
+
+.reveal .logo .st2 {
+    fill: #E73F25;
+}
+
+.reveal .logo .st3 {
+    fill: #020203;
+}
+
+.reveal .logo .st4 {
+    fill: none;
+}
+
+.reveal .intro {
+    font-family: "Source Code Pro", monospace;
+}
+
+.reveal .intro:after {
+    border: 2px solid #fff;
+    content: "";
+    display: inline-block;
+    height: 3.6vw;
+    max-height: 30px;
+    left: 1%;
+    position: relative;
+    top: 5px;
+    width: 1.5vw;
+    max-width: 15px;
+}
+
+.reveal .intro.has-cursor:after {
+    background-color: #fff;
+    border-color: #fff;
+    opacity: .8;
+    -webkit-animation-name: a;
+    animation-name: a;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+.reveal .intro-highlight,
+.reveal .highlight-fragment.visible,
+.reveal .slides section .fragment.highlight-yellow.visible {
+    color: #ebe56f;
+}
+
+.reveal .slides section .fragment.highlight-yellow {
+    opacity: 1;
+    visibility: inherit;
+}

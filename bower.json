@@ -1,0 +1,42 @@
+{
+  "name": "wp-berlin-planung",
+  "homepage": "https://wp-berlin.github.io/planung/",
+  "license": "GPLv3",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "reveal.js": "^3.6.0",
+    "typed.js": "^2.0.6"
+  },
+  "install": {
+    "path": {
+      "css": "assets/css/libs",
+      "js": "assets/js/libs",
+      "html": "assets/js/libs"
+    },
+    "sources": {
+      "reveal.js": [
+        "bower_components/reveal.js/css/reveal.css",
+        "bower_components/reveal.js/css/print/paper.css",
+        "bower_components/reveal.js/css/print/pdf.css",
+        "bower_components/reveal.js/lib/js/head.min.js",
+        "bower_components/reveal.js/js/reveal.js",
+        "bower_components/reveal.js/lib/js/classList.js",
+        "bower_components/reveal.js/lib/js/html5shiv.js",
+        "bower_components/reveal.js/plugin/markdown/marked.js",
+        "bower_components/reveal.js/plugin/markdown/markdown.js",
+        "bower_components/reveal.js/plugin/notes/notes.js",
+        "bower_components/reveal.js/plugin/notes/notes.html"
+      ],
+      "typed.js": "bower_components/typed.js/lib/typed.min.js"
+    },
+    "ignore": [
+      "headjs"
+    ]
+  }
+}
