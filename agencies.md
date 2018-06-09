@@ -1,3 +1,12 @@
+# Meetup locations
+
+## Previous locations
+
+* moz://a Community Space, Schlesische Straße 27, 10997 Berlin
+* Bonnie & Byte, Lychener Str. 79, 10437 Berlin
+
+## Potential locations
+
 * Webdesign by alpha projekt https://alpha-projekt.de/ (anfrage@alpha-projekt.de)
 * Kulturbanause https://kulturbanause.de/ (info@kulturbanause.de)
 * MEWIGO https://www.mewigo.de/ (kontakt@mewigo.de)
